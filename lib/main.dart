@@ -31,8 +31,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
   double progressValue = 0.0;
+  
   ScrollController scrollController = ScrollController();
 
   @override
